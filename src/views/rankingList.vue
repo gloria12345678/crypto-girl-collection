@@ -145,7 +145,7 @@ export default {
      width: 200px;
      height: 60px;
 }
- #back2:nth-child(even){
+ .ranking-ul ul:nth-child(even){
      background-color: #ccecf8;
  }
 
